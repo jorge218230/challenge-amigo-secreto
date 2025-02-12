@@ -41,10 +41,9 @@ cd challenge-amigo-secreto
 
 # Abrir o arquivo no navegador
 start index.html (Windows) ou open index.html (Mac)
-
-# Endereço da página do projeto publicada
-https://jorge218230.github.io/challenge-amigo-secreto/ 
 ```
+Endereço da página publicada do projeto 
+https://jorge218230.github.io/challenge-amigo-secreto/
 
 ---
 
