@@ -25,6 +25,7 @@ O projeto **Amigo Secreto** é uma aplicação web simples que permite adicionar
 - Exibir o nome do amigo sorteado na interface.
 
 ### Demonstração
+https://jorge218230.github.io/challenge-amigo-secreto/
 Para adicionar um amigo, basta inserir o nome no campo de entrada e clicar no botão "Adicionar". O nome será incluído na lista automaticamente. Para realizar o sorteio, clique no botão "Sortear amigo" e um nome será exibido na tela.
 
 ---
@@ -42,8 +43,6 @@ cd challenge-amigo-secreto
 # Abrir o arquivo no navegador
 start index.html (Windows) ou open index.html (Mac)
 ```
-Endereço da página publicada do projeto 
-https://jorge218230.github.io/challenge-amigo-secreto/
 
 ---
 
